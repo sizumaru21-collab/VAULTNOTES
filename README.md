@@ -65,4 +65,8 @@ Because this project is a single standalone file, you can host it for free on Gi
 
 ## License
 
+[[https://img.shields.io/badge/▶_Open_Notes_App-Live_Web-white?style=for-the-badge&logoColor=black]](https://sizumaru21-collab.github.io/YOUR_REPO_NAME/)
+
+> 🔗 **Live Web App**: [[https://sizumaru21-collab.github.io/YOUR_REPO_NAME/](https://sizumaru21-collab.github.io/VAULTNOTES/)]([https://sizumaru21-collab.github.io/YOUR_REPO_NAME/](https://sizumaru21-collab.github.io/VAULTNOTES/)
+
 MIT © [sizumaru21-collab](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fsizumaru21-collab)
